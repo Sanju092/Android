@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hyderabad Metro Tracker</string>
+    <string name="title_activity_main">Hyderabad Metro Tracker</string>
+    <string name="package_name">com.metrotrack.hyderabad</string>
+    <string name="custom_url_scheme">com.metrotrack.hyderabad</string>
+</resources>
